@@ -1,12 +1,10 @@
-# pruebatecnica-zafirus
-Prueba tecnica 
-
-
-# pruebatecnica-zafirus
+# Prueba Tecnica Zafirus Technologies
 
 Prueba técnica Laravel Senior
 
 ---
+## 1. Función de Agrupamiento de Tareas
+Ver archivo taskgrouper.php en el repositorio.
 
 ## 2. Análisis de Código Laravel
 
